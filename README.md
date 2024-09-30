@@ -44,4 +44,7 @@ This workflow takes raw data, transforms it, analyzes it, generates recommendati
 
 ## Cleaning & Transformation 
 
-![Raw Data](Visualization/Original Data.png)
+![Raw Data](Visualization/OriginalData.png)
+![Cleaning](Visualization/CleaningData.png)
+![Process & Transformation](Visualization/ProcessedData.png)
+

@@ -12,4 +12,4 @@ The objectives of the project work are as -
 - To understand User Preferences and Trends.
 
 ## Architecture
-Personalized-Products-Recommendation-Model/Architecture.png
+![Architecture](Personalized-Products-Recommendation-Model/Architecture.png)

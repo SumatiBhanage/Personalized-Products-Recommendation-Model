@@ -16,6 +16,9 @@ The objectives of the project work are as -
 - Rows : 66589268 (above 6.5 crore)
 - Column : 10
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         | :---:         | ---:          |
+| Item A      | Item B        | Item C       |
 
 | Property | Description |
 | event_time | Time when event happened at (in UTC). |

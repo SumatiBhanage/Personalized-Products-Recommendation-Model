@@ -71,7 +71,7 @@ This workflow takes raw data, transforms it, analyzes it, generates recommendati
 ### Processing and Transformation Of Data 
 ![Process & Transformation](Visualization/ProcessedData.png)
 
-## Custmoer Revenue Analysis 
+## Customer Revenue Analysis 
 ### Sum Of Users Over The Month
 ![](Visualization/SumofUsersOvertheMonth.png)
 

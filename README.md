@@ -18,7 +18,7 @@ The objectives of the project work are as -
 
 
 | Property | Description |
-| :---         | :---:         |
+| :---         | ---:         |
 | event_time | Time when event happened at (in UTC). |
 | event_type | Only one kind of event: purchase. |
 | product_id | ID of a product |
